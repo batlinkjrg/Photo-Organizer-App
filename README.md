@@ -11,4 +11,5 @@ Usage:
         - moveFile -> moves the file into their new sorted directory instead of just copying it
         - screenshotFilter -> filters screenshots out by filename
 3. Pick a name for the output directory (Default: Sorted Media)
-4. Enjoy sorted photos
+4. Give it a minute to process, the start button will disable while it is working ;)
+5. Enjoy sorted photos
